@@ -28,7 +28,7 @@ Step 2: Open `.env` and inject your credentials so it looks like this
 ```
 
 REACT_APP_API_URL= http://localhost:8080
-REACT_APP_GOOGLE_CLIENT_ID=1010883029867-9sa8he5anmke0t31957grenu56tec7cq.apps.googleusercontent.com
+
 
 ```
 
